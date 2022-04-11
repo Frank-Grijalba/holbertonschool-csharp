@@ -1,0 +1,11 @@
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/bin/Debug/netcoreapp2.1/1-new_project.deps.json
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/bin/Debug/netcoreapp2.1/1-new_project.runtimeconfig.json
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/bin/Debug/netcoreapp2.1/1-new_project.runtimeconfig.dev.json
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/bin/Debug/netcoreapp2.1/1-new_project.dll
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/bin/Debug/netcoreapp2.1/1-new_project.pdb
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/Debug/netcoreapp2.1/1-new_project.csprojAssemblyReference.cache
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/Debug/netcoreapp2.1/1-new_project.csproj.CoreCompileInputs.cache
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/Debug/netcoreapp2.1/1-new_project.AssemblyInfoInputs.cache
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/Debug/netcoreapp2.1/1-new_project.AssemblyInfo.cs
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/Debug/netcoreapp2.1/1-new_project.dll
+/home/frank/Specialization/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/Debug/netcoreapp2.1/1-new_project.pdb
