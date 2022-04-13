@@ -8,7 +8,7 @@ namespace _4_print_hexa
         {
             for (int num = 0; num <= 98; num++)
             {
-                Console.WriteLine($"{num} = 0x{num:X}");
+                Console.WriteLine($"{num} = 0x{num:x}");
             }
         }
     }
