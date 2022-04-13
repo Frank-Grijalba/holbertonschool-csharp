@@ -1,0 +1,11 @@
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.deps.json
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.runtimeconfig.json
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.runtimeconfig.dev.json
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.dll
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.pdb
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.csprojAssemblyReference.cache
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.csproj.CoreCompileInputs.cache
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.AssemblyInfoInputs.cache
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.AssemblyInfo.cs
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.dll
+/home/frank/Specialization/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.pdb
