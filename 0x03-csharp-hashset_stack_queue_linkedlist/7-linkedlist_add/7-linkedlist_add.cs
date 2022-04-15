@@ -3,16 +3,9 @@ using System.Collections.Generic;
 
 class LList
 {
-    public static int FindNode(LinkedList<int> myLList, int value)
+    public static LinkedListNode<int> Add(LinkedList<int> myLList, int n)
     {
-        int index = 0;
-
-        foreach (int i in myLList)
-        {
-            if (i == value)
-                return(index);
-            index++;
-        }
-        return(-1);
+        myLList.AddFirst(n);
+        return(myLList.First);
     }
 }
