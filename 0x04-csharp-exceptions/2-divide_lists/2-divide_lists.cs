@@ -7,7 +7,7 @@ class List
     {
         List<int> newList = new List<int>();
         int result = 0;
-        for (int i = 0; i <= listLength; i++){
+        for (int i = 0; i < listLength; i++){
             try
             {
                 result = list1[i] / list2[i];
