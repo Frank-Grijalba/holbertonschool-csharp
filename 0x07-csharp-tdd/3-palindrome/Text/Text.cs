@@ -28,7 +28,7 @@ namespace Text
                 chr = onlyAlpha.Substring(iterator, 1);
                 inverse += chr;
             }
-            Console.WriteLine(inverse);
+
             if (onlyAlpha == inverse)
             {
                 return true;
