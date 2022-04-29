@@ -14,6 +14,12 @@ namespace Text.Tests
 
             string phrase1 = "A man, a plan, a canal: Panama.";
             Assert.IsTrue(Text.Str.IsPalindrome(phrase1));
+
+            Assert.AreEqual(true, Str.IsPalindrome("bob"));
+
+            Assert.AreEqual(true, Str.IsPalindrome(""));
+
+            Assert.IsFalse(Str.IsPalindrome("Other"));
         }
     }
 }

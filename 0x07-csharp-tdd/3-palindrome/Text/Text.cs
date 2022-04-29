@@ -8,7 +8,7 @@ namespace Text
         public static bool IsPalindrome(string s)
         {
             s = s.ToLower();
-            if(s == null || s.Length == 0 || s == "")
+            if(s.Length == 0 || s == "")
                 return true;
 
             string onlyAlpha = "";
