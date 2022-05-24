@@ -11,7 +11,7 @@ class VectorMath
             add += (Math.Pow(vector[i], 2));
         }
 
-        result = Math.Ceiling(Math.Sqrt(add));
+        result = Math.Round(Math.Sqrt(add), 2);
         return result;
     }
 }
