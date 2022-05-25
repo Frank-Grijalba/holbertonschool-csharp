@@ -11,7 +11,7 @@ class VectorMath
             return add;
         }
         
-        double[] result = new double[vector1.Length];
+        double[] result = new double[(int) vector1.Length];
         
         for (int i = 0; i < vector1.Length; i++){
             result[i] = vector1[i] + vector2[i];

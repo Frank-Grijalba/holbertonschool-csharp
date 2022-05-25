@@ -11,7 +11,7 @@ class VectorMath
             return add;
         }
         
-        double[] result = new double[vector.Length];
+        double[] result = new double[(int) vector.Length];
         
         for (int i = 0; i < vector.Length; i++){
             result[i] = vector[i] * scalar;
