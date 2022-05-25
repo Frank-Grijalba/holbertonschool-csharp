@@ -1,6 +1,9 @@
 ﻿using System;
+
+/// <summary>This is the class</summary>
 class VectorMath
 {
+    /// <summary>This is the function</summary>
     public static double Magnitude(double[] vector){
         double add = 0;
         double result = 0;
