@@ -1,6 +1,9 @@
 ﻿using System;
+
+/// <summary>This is the class object.</summary>
 class VectorMath
 {
+    /// <summary>This is the function</summary>
      public static double[] Multiply(double[] vector, double scalar){
         
         double[] add = new double[2];
@@ -11,7 +14,7 @@ class VectorMath
             return add;
         }
         
-        double[] result = new double[(int) vector.Length];
+        double[] result = new double[vector.Length];
         
         for (int i = 0; i < vector.Length; i++){
             result[i] = vector[i] * scalar;
