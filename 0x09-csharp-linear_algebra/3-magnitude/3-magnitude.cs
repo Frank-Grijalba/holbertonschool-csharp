@@ -4,13 +4,15 @@
 class VectorMath
 {
     /// <summary>This is the function</summary>
-    public static double Magnitude(double[] vector){
+    public static double Magnitude(double[] vector)
+    {
         double add = 0;
         double result = 0;
         if (vector.Length < 2 || vector.Length > 3)
             return -1;
 
-        for (int i = 0; i < vector.Length; i++){
+        for (int i = 0; i < vector.Length; i++)
+        {
             add += (Math.Pow(vector[i], 2));
         }
 
